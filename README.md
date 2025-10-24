@@ -1,3 +1,6 @@
+> [!WARNING]
+> This example is outdated. See https://github.com/livekit-examples/python-agents-examples/tree/main/telephony for the latest Telephony examples for LiveKit Agents
+
 # LiveKit Phone Assistant Agent - SIP REFER Example
 
 ## Overview
