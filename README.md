@@ -1,5 +1,6 @@
 > [!WARNING]
-> This example is outdated. See https://github.com/livekit-examples/python-agents-examples/tree/main/telephony for the latest Telephony examples for LiveKit Agents
+> This example uses an outdated version of LiveKit Agents and is no longer maintained.
+> For keypad (DTMF) menus, see [examples/telephony](https://github.com/livekit/agents/tree/main/examples/telephony) in the Agents repository. For transferring calls, see the [call transfer docs](https://docs.livekit.io/telephony/features/transfers/cold/).
 
 # LiveKit Phone Assistant Agent - SIP REFER Example
 
